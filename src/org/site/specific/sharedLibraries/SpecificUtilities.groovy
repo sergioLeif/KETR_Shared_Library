@@ -1,4 +1,4 @@
-package org.site.spacific.sharedLibraries
+package org.site.specific.sharedLibraries
 
 //@GrabResolver(name='CENTRAL', root='urlPrueba:8084/artifactory/repo1' , m2Compatible=true)
 //@Grapes(
